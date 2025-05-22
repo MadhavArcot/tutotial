@@ -5,7 +5,7 @@ def add(a, b):
   return a + b
 
 def subtract(a,b):
-  return a - b
+  return b - a
 
 if __name__ == "__main__":
   a = 5
