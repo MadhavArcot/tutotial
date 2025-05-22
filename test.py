@@ -1,10 +1,11 @@
-# Summer is here
+
+# Winter is here
 
 def add(a, b):
   return a + b
 
 def subtract(a,b):
-  pass
+  return a - b
 
 if __name__ == "__main__":
   a = 5
