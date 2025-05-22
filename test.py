@@ -1,10 +1,10 @@
-# Hello World Comment Line
+# Winter is here
 
 def add(a, b):
   pass
 
 def subtract(a,b):
-  pass
+  return a - b
 
 if __name__ == "__main__":
   a = 5
